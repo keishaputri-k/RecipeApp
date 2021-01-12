@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="txt_name">Hero Finneas-Tiffin</string>
+    <string name="txt_email">herofinneas@gmail.com</string>
+    <string name="txt_more">More</string>
+    <string name="txt_top_menu">Top Menu</string>
+    <string name="txt_nasi_goreng">Nasi Goreng</string>
+    <string name="txt_sate">Sate</string>
+    <string name="txt_siomai">Siomai</string>
+    <string name="txt_batagor">Batagor</string>
+    <string name="txt_soto">Soto</string>
+    <string name="txt_gudeg">Gudeg</string>
+    <string name="txt_gado_gado">Gado - Gado</string>
+    <string name="txt_bakso">Bakso</string>
+</resources>
