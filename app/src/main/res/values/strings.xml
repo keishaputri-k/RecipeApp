@@ -12,4 +12,178 @@
     <string name="txt_gudeg">Gudeg</string>
     <string name="txt_gado_gado">Gado - Gado</string>
     <string name="txt_bakso">Bakso</string>
+    <string name="txt_imageview">ImageView</string>
+    <string name="txt_bakmi">Bakmi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="txt_description">Description</string>
+
+    <string-array name="data_name">
+        <item>Onigiri</item>
+        <item>Churro</item>
+        <item>Salmon Nigiri Sushi</item>
+        <item>Omelette</item>
+        <item>Bakso manis pedas</item>
+        <item>Roti Bakar</item>
+        <item>Salad Buah</item>
+        <item>Kentang goreng</item>
+        <item>Fried Potato Wadges</item>
+        <item>Es lilin</item>
+        <item>Pudding</item>
+        <item>Tempe</item>
+        <item>Tahu</item>
+        <item>Tumis Kangkung</item>
+        <item>Ikan Asin</item>
+        <item>Indomie kuah</item>
+        <item>Indomie Goreng</item>
+        <item>Seblak</item>
+        <item>Tahu Bulat</item>
+        <item>Sate Taichan</item>
+        <item>Sushi</item>
+        <item>Roti Kukus</item>
+        <item>Pancake</item>
+        <item>Gado-Gado</item>
+        <item>Chicken Karage</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Onigiri adalah nama Jepang untuk makanan berupa nasi yang dipadatkan sewaktu masih hangat sehingga berbentuk segitiga, bulat, atau seperti karung beras. Dikenal juga dengan nama lain omusubi, istilah yang kabarnya dulu digunakan kalangan wanita di istana kaisar untuk menyebut onigiri. Onigiri dimakan dengan tangan, tidak memakai sumpit.</item>
+        <item>Churro adalah sebuah makanan ringan berbahan dasar pastri dough goreng, biasanya choux. Churro adalah hidangan tradisional di Spanyol dan Portugal, dimana hidangan tersebut berasal, serta Filipina dan Ibero-Amerika.</item>
+        <item>Sushi ini disajikan dengan nasi yang di atasnya diberi potongan ikan.</item>
+        <item>Telur dadar atau omelet adalah variasi hidangan telur goreng yang disiapkan dengan cara mengocok telur dan menggorengnya dengan minyak goreng atau mentega panas di sebuah wajan.</item>
+        <item>bakso dengan saus manis pedas andalan anak kos</item>
+        <item>Roti panggang merujuk kepada kepingan roti yang dibakar atau dipanggang dengan proses radiasi termal sehingga roti menjadi lebih kecoklatan dan garing. Warna kecoklatan adalah hasil dari reaksi Maillard mengubah rasa roti dan membuatnya lebih kering sehingga lebih mudah untuk menaburkan topping di atasnya.</item>
+        <item>Koktail buah atau salad buah adalah makanan yang dibuat dari potongan buah dan sirup, dan disajikan dingin. Walaupun namanya mirip dengan minuman beralkohol yang disebut "koktail", koktail buah sama sekali tidak dicampur atau mengandung alkohol.</item>
+        <item>Kentang goreng adalah hidangan yang dibuat dari potongan-potongan kentang yang digoreng dalam minyak goreng panas. Di dalam menu rumah-rumah makan, kentang goreng yang dipotong panjang-panjang dan digoreng dalam keadaan terendam di dalam minyak goreng panas disebut French fries.</item>
+        <item>Diterjemahkan dari bahasa Inggris-Irisan kentang adalah irisan kentang, sering kali berukuran besar dan tidak dikupas, yang dipanggang atau digoreng. Mereka dijual di rumah makan dan restoran cepat saji. Di Australia, potato wedges adalah makanan bar yang umum, yang hampir selalu disajikan dengan krim asam dan saus sambal manis.</item>
+        <item>Es loli atau es lilin adalah makanan penyegar berupa es dengan batang kayu sebagai alat untuk dipegang. Makanan ini dibuat dari cairan minuman berwarna dan berasa yang diberi batang kayu lalu dibekukan. Ketika membeku, es loli dimakan dengan memegang stik kayu.</item>
+        <item>Puding adalah sebuah hidangan penutup yang umumnya dibuat dari bahan-bahan yang direbus, dikukus, atau dipanggang. Istilah puding juga dapat dipakai untuk berbagai jenis pai yang berisi campuran lemak hewan, daging, atau buah-buahan yang dipanggang, direbus, atau dikukus. </item>
+        <item>Tempe adalah makanan khas Indonesia yang terbuat dari fermentasi terhadap biji kedelai atau beberapa bahan lain yang menggunakan beberapa jenis kapang Rhizopus, seperti Rhizopus oligosporus, Rh. oryzae, Rh. stolonifer, atau Rh. arrhizus. Sediaan fermentasi ini secara umum dikenal sebagai "ragi tempe".</item>
+        <item>Tahu adalah makanan yang dibuat dari endapan perasan biji kedelai yang mengalami koagulasi. Tahu berasal dari Tiongkok, seperti halnya kecap, tauco, bakpau, dan bakso. Nama "tahu" merupakan serapan dari bahasa Hokkian, yang secara harfiah berarti "kedelai terfermentasi"</item>
+        <item>Diterjemahkan dari bahasa Inggris-Aduk bayam air goreng adalah hidangan sayur Asia umum dari bayam air tumis. </item>
+        <item>Ikan asin adalah bahan makanan yang terbuat dari daging ikan yang diawetkan dengan menambahkan banyak garam.</item>
+        <item>Mie rebus/Mi rebus atau mee rebus adalah sebuah hidangan mi kuah dari Asia Tenggara, yang dikenal di Indonesia, Malaysia, dan Singapura. Hidangan tersebut juga biasa disebut mie kuah.</item>
+        <item>Mi goreng berarti "mi yang digoreng" adalah makanan yang berasal dari Indonesia yang populer dan juga digemari di Malaysia, dan Singapura. </item>
+        <item>Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat yang bercita rasa gurih dan pedas. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari atau olahan daging sapi, dan dimasak dengan kencur.</item>
+        <item>Tahu bulat adalah sebuah jajanan kaki lima berupa olahan kacang kedelai yang dibuat menjadi sebuah tahu berbentuk bulat dengan isi kopong. Biasanya, tahu bulat dijual di sebuah mobil bak terbuka dan kebanyakan dihargai Rp500 per buah.</item>
+        <item>Sate taichan adalah sebuah varian sate yang berisi daging ayam yang dibakar tanpa baluran bumbu kacang atau kecap seperti sate pada umumnya.</item>
+        <item>Sushi atau sushi adalah makanan Jepang yang terdiri dari nasi yang dibentuk bersama lauk berupa makanan laut, daging, sayuran mentah atau sudah dimasak.</item>
+        <item>Roti kukus adalah sejenis roti, biasanya dibuat dari gandum, yang disiapkan dengan mengukus, bukan dipanggang.</item>
+        <item>Pancake adalah kue dadar yang dibuat dari terigu, telur ayam, gula dan susu. Bahan-bahan dicampur dengan air membentuk adonan kental yang digoreng di atas wajan datar yang diolesi sedikit minyak.</item>
+        <item>Gado-gado adalah salah satu makanan khas yang berasal dari Indonesia yang berupa sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang atau sausdari kacang tanah dan yang dihaluskan disertai irisan telur dan pada umumnya banyak yang menambahkan kentang rebus yang sudah dihaluskan untuk dicampurbumbu kacang, kentang rebus dimasak bersama dengan bumbu kacang kemudian di atasnya ditaburi bawang goreng. Sedikit emping goreng atau kerupuk(ada juga yang memakai kerupuk udang) juga ditambahkan.</item>
+        <item>Chicken karage adalah fillet ayam balut tepung bumbu yang digoreng krispi.</item>
+    </string-array>
+
+    <string-array name="data_ingredients">
+        <item>Nasi pulen<br/>Tuna kaleng / ayam suwir<br/>Nori<br/>secukupnya Wijen</item>
+        <item>3 butir telur<br/>400 lt Air<br/>5 sdm Terigu protein sedang<br/>100 gram mentega<br/>secukupnya Garam<br/>Bahan untuk toping<br/>Selai coklat<br/>Gula halus<br/>2 plastik segitiga<br/>Cetakan semprit</item>
+        <item>4 centong nasi pulen<br/>1 sdm cuka makan<br/>Sedikit garam<br/>1 iris salmon<br/>1 sdm mayonais<br/>1 butir telur<br/>3 sdm abon #opsional<br/>Cocolan<br/>3 sdm kecap asin kokkiman</item>
+        <item>1 butir telur<br/>minyak</item>
+        <item>- 300 gram bakso<br/>- 1 buah bawang bombai, cincang-cincang<br/> - 4 sdm saus pedas<br/>- 2 sdm kecap manis<br/>- 2 sdm saus tiram<br/>- 5 buah jeruk kunci, ambil airnya<br/>- Garam, gula secukupnya<br/>- 200 ml air<br/>- 2 sdm margarine<br/>Bumbu halus:<br/>- 10 buah cabai rawit atau sesuai selera<br/>- 4 siung bawang putih</item>
+        <item>4 lembar roti tawar<br/>Meses coklat secukupnya<br/>Susu kental manis cokelat secukupnya<br/>Keju parut secukupnya<br/>Margarin secukupnya untuk olesan dan untuk memanggang<br/>Bahan Topping<br/>Susu kental manis cokelat secukupnya<br/>Keju parut secukupnya</item>
+        <item>Bahan-Bahan:<br/>Buah segar sesuai selera(sudah di potong)<br/>Jelly<br/>Bahan Saus Salad:<br/>1 cup yogurt plain<br/>1 sdm air jeruk nipis/lemon<br/>1 sachet susu kental manis putih<br/>3 sdm mayonnaise<br/>1 sdt parutan kulit lemon<br/>50 gram keju cheddar parut<br/>sudah di satukan dan aduk></item>
+        <item>Frozen French fries<br/>Minyak</item>
+        <item>3 buah kentang ukuran besar<br/>Bahan untuk merebus kentang :<br/>1 sdt garam<br/>1/2 sdt merica bubuk<br/>2 siung bawang putih (geprek)<br/>secukupnya Air<br/>Bahan untuk balur kentang :<br/>100 gr tepung maizena<br/>50 gr tepung beras<br/>Secukupnya italian seasoning<br/>Secukupnya bubuk cabai<br/>Secukupnya garam dan merica</item>
+        <item>250 gr coklat bubuk<br/>250 gr gula pasir<br/>50 gr tepung maizena<br/>2 sdt garam<br/>350 ml santan cair<br/>100 ml air</item>
+        <item>Bahan lapisan susu :<br/>1 sascet agar2 bening<br/>1 sascet nutrijel plain<br/>350 ml gula pasir<br/>1700 ml Susu cair<br/>1 sdt Vanila essense<br/>Bahan lapisan buah :<br/>Anggur, jeruk, buah naga, stawberry<br/>1 sascet nurtijell plain kecil<br/>400 ml air<br/>100 gr gula pasir<br/>1 sdt perasan jeruk lemon</item>
+        <item>1/2 bks Tempe<br/>2 siung bawang putih, geprek<br/>1 sdt garam<br/>2 tetes cuka masak Dixy</item>
+        <item>1 buah tahu sutera<br/>3 siung bawang putih<br/>secukupnya garam<br/>secukupnya merica</item>
+        <item>5 siung bawang merah cincang halus<br/>3 siung bawang putih memarkan cincang halus<br/>1 1/4 sdt Royco kaldu ayam<br/>1 sdm minyak wijen<br/>2 buah cabai merah buang biji iris serong tipis<br/>2 ikat (500 g) kangkung petiki daunnya<br/>3 sdm minyak untuk menumis</item>
+        <item>Ikan Asin<br/>Minyak</item>
+        <item>Kamu butuh 1 indomie kare ayam.<br/>Kamu butuh 5 cabe rawit kecil.<br/>Kamu butuh 1 telur.<br/>Kamu butuh Air untuk memasak.</item>
+        <item>Perlu 2 bungkus beberapa indomie goreng.<br/>Anda membutuhkan 2 beberapa telor ayam.<br/>Siapkan beberapa Kecap manis.<br/>Siapkan 2 beberapa bawang merah.<br/>Perlu beberapa Yg suka pedas bisa tambahkan cabai.</item>
+        <item>Bahan-bahan:<br/>- 125 gram kerupuk aci kuning/putih (Kerupuk yang biasa di pakai untuk nasi uduk atau nasi goreng)<br/>- air panas buat merendam kerupuk aci<br/>- 50 ml air<br/>- 1 butir telur, kocok lepas<br/>- 1/2 batang sosis, potong sesuai selera<br/>- 1 butir bakso, potong sesuai selera<br/>- 1/2 sdt kaldu ayam bubuk<br/>- 1/2 batang daun bawang, diiris halus (opsional tergantung selera)<br/>- 2 sendok makan minyak untuk menumis bumbu halus<br/>Bumbu halus:<br/>- 1/2 sdm asam jawa<br/>- 8 buah cabai rawit/cabai keriting (sesuai selera pedas) cabai bisa jadikan sambal dulu disesuaikan saja<br/>- 1/2 buah tomat merah<br/>- 1 1/2 siung bawang merah (ini juga opsional tergantung selera, sebenarnya pakai bawang putih sudah cukup enak)<br/>- 1/2 siung bawang putih<br/>- 1/4 ruas kencur<br/>- 1/4 sdt gula pasir (sesuai selera)<br/>- 1/8 sdt garam halus (sesuai selera)</item>
+        <item>Tahu putih - 10 buah<br/>Kuning telur - 2 butir<br/>Baking powder - 1 sdt<br/>Bubuk kaldu ayam - 1/2 sdt<br/>Lada bubuk - 1/2 sdt<br/>Minyak untuk menggoreng - secukupnya</item>
+        <item>Bahan: <br/> 600g fillet dada ayam, potong kotak 1,5 cm <br/> 6siung bawang putih, cincang halus <br/>4buah jeruk nipis, ambil airnya <br/> 2sdt Royco Kaldu Ayam <br/> ½sdt garam <br/> ½sdt merica putih bubuk <br/> Bahan sambal: <br/>12 buah cabai rawit merah, rebus <br/> ½sdt garam <br/> 2 buah jeruk limau, ambil airnya </item>
+        <item>Bahan<br/>- Nasi jepang / nasi biasa yang sudah dicampurkan garam dan sedikit cuka<br/>- biji wijen<br/>- nori (rumput laut lembaran)<br/>- ikan tuna, salmon, ayam (sesuai selera unutk isian sushi)<br/>- 1 buah mentimun, potong memanjang dan buang bijinya<br/>- 1 buah wortel, potong memanjang<br/>- telur dadar<br/>Bahan pelengkap sushi<br/>- Shoyu (kecap asin)<br/>- wasabi<br/>- mayonaise<br/>- penggulung sushi</item>
+        <item>Gula pasir 200 gram<br/>Telur 2 butir<br/>Tepung terigu protein sedang 275 gram<br/>Minuman dengan soda tawar 225 m, bisa sprite atau f&amp;n<br/>Emulsifier 2 sendok teh<br/>Baking powder ½ sendok teh<br/>Esens vanili ½ sendok teh<br/>Pewarna makanan 2 tetes gunakan dua jenis warna<br/>Cara Membuat Roti Kukus</item>
+        <item>Bahan-bahan: <br/>225 gr tepung terigu protein sedang <br/>2 sdt baking powder<br/>1/2 sdt garam <br/>1 sdt gula pasir<br/>2 butir telur  <br/>30 gr mentega tawar, lelehkan <br/>300 ml susu cair<br/>mentega secukupnya</item>
+        <item>Bahan:<bt/>- 1/4 kol iris tipis, rebus<bt/>- 10 helai kacang panjang potong-potong, rebus<bt/>- 1 genggam toge, rebus<bt/>- 1 buah timun potong-potong<bt/>- 1 buah tahu kotak goreng<bt/>- Tomat<bt/>- Kentang rebus<bt/>- Telur rebus<bt/>- Daun selada<bt/>- Lontong<bt/>- Emping melinjo<bt/>- Bawang goreng untuk taburan<bt/>Bahan saus:<bt/>- 100 gr kacang tanah<bt/>- 4 buah bawang putih<bt/>- 5 buah cabai kriting<bt/>- 100 gr gula merah sisir<bt/>- 4 sdm gula pasir<bt/>- 1 sdt air asam jawa<bt/>- 1/2 sdt garam (sesuai selera)<bt/>- Terasi secukupnya<bt/>- 1/2 buah kentang rebus potong kasar<bt/>- 750 ml santan sedang<bt/>- 2 sdm tepung beras cairkan bersama sedikit air<bt/>- Kecap manis secukupnya.</item>
+        <item>Bahan-bahan:<br/>450 gram dada ayam<br/>4 sdm tepung terigu<br/>2 sdm tepung maizena<br/>Garam dan merica secukupnya<br/>1 liter minyak goreng<br/>Mayonnaise untuk saus cocolan<br/>Bumbu rendaman ayam:<br/>1 sdt jahe parut<br/>2 siung bawang putih<br/>1/2 sdt kecap asin<br/>1/4 sdt garam<br/>1/4 sdt merica</item>
+    </string-array>
+
+    <string-array name="data_steps">
+        <item>Cetak onigiri ke dalam cetakan segitiga, lalu isi dengan tuna/ ayam suwir.<br/>Lapisi dengan nori dan taburi wijen. Siap di makan.</item>
+        <item>Siapkan panci Didihkan air, kemudian masukan mentega beri garam secukupnya kemudian tambahkan tepung terigu aduk hingga kalis gunakan api sedang angkat<br/>Masukan telur satu persatu kedalam adonan aduk hingga sedikit cair namun bs di bentuk dengan semprit<br/> Siapkan 2 plastik segitiga satu untuk memasukan cetakan semprit dan satu lagi untuk adonan<br/>Panaskan minyak kemudian mulai menggoreng adonan sambil di semprit lakukan sampai habis.. goreng hingga kuning keemasan angkat dan tiriskan<br/>Tata rapih beri toping gula halus atau toping coklat saya lagi pake toping selai coklat</item>
+        <item>Dadar telur, iris memanjang<br/>Ambil nasi pulen yg masih hangat, tambahkan cuka, garam aduk aduk, iris salmon<br/>epal kepal nasi, isi tengah dengan abon ikan dan telur dadar, kepal-kepal kembali, lalu taruh salmon dan mayonais diatasnya. Hidangkan</item>
+        <item>pecahkan telurnya ke dalam mangkok lalu kocok<br/>panaskan minyak.setelah panas masukan kocokan telur<br/>masak hingga matang</item>
+        <item>Cara memasak:<br/>- Panaskan margarine lalu tumis bumbu halus dan bombai sampai harum, masukkan bakso, aduk-aduk<br/>- Masukkan saus pedas, saus tiram, kecap manis dan air jeruk kunci, aduk rata lalu tuang air<br/>- Masak sampai air menyusut masukkan gula dan sedikit garam, masak sampai air habis test rasa lalu angkat<br/>- Sajikan</item>
+        <item>Ambil 1 lembar roti tawar. Olesi bagian dalamnya dengan margarin secara merata.<br/>Taburkan meses coklat lalu beri taburan keju parut di atas meses.<br/>Baru tuang susu kental manis rasa coklat di atas secukupnya.<br/>Tumpuk dengan 1 lembar roti tawar lagi di atasnya. Tekan sedikit agar kedua lembar roti merekat.<br/>Panggang roti bakar menggunakan toaster. Kalau tidak punya kamu bisa menggunakan teflon.<br/>Jika memanggang roti menggunakan teflon, masukkan margarin sedikit saja ke dalam teflon dan tunggu hinga mencair.<br/>Setelah margarin mencair, baru masukkan roti diatasnya dan panggang menggunakan api sedang sampai kelihatan bekas panggangan berwarna kecoklatan. Jangan lupa balik roti saat dipanggang.<br/>Setelah matang, angkat roti bakar dan taruh dalam piring saji.<br/>Beri topping susu kental manis dan taburan keju parut di atasnya.<br/>Roti bakar siap disajikan selagi hangat.</item>
+        <item>masukan semua buah potong dan jeli ke dalam mangkok<br/>masukan </item>
+        <item>Panaskan Minyak<br/>Masukan Frozen french fries ke dalam minyak yang panas<br/>deepfry hingga warnanya kuning keemasan<br/>Angkat, Tiris, dan Hidangkan</item>
+        <item>Rebus kentang yang sudah di cuci dan di potong" tambahkan garam, merica dan bawang putih geprek, rebus sampai setengah matang kurang lebih 5 menit<br/>Angkat dan sisihkan kentang yg sudah di rebus<br/>Campur semua bahan untuk balur, tambahkan air aduk sampai rata<br/>Masukan kentang yang sudah di rebus ke bahan untuk balur, bisa langsung goreng atau disimpan di kulkas ya<br/>Panaskan minyak, goreng kentang dengan api sedang sampai kuning kecoklatan<br/>Potato wedges siap dinikmati dengan mayonaise atau saus sambal     </item>
+        <item>Campurkan coklat bubuk, gula, tepung maizena dan santan kedalam panci. Aduk rata semua bahan, masak hingga agak mengental. Resting adonan sekitar 1–2 jam.<br/>Masukkan adonan es yang telah dingin tadi kedalam plastik es yang ingin di gunakan.<br/>Sajikan es potong bersama fla</item>
+        <item>Masak bahan puding lapisan bawah sampe mendidih, hilangkan uap panasnya lalu tuang dlm wadah dessert box/aluminium foil.<br/>Tunggu agak beku, lalu tata buah diatasnya. Larutkan bahan nutrijell masak sampe mendidih, tunggu uap panas berkurang. Lalu tuang diatas puding buah, biarkan dingin.<br/>Simpan dikulkas dl sblm dimakan. Selamat mencoba</item>
+        <item>Buat air rendaman, bwng pth, garam, cuka Dan air diaduk Dan bwng pth yg sdh digeprek itu agak dibejek-bejek di larutan garam.<br/>Potong2 Tempe, beri guratan pada kedua sisinya, lalu rendam di larutan garam +- 15 menit<br/>Goreng dalam minyak panas beserta bawangnya. Air rendamannya dibuang.Masak sampai matang kecoklatan dikedua sisinya, angkat dan nikmati.</item>
+        <item>Haluskan bawang putih,garam,dan merica<br/>Tambahkan air secukupnya,aduk hingga rata<br/>Potong tahu sesuai selera,lalu jahit bolak balik tahunya agar bumbunya meresap<br/>Masukkan potongan tahu tsb ke dalam bumbunya,goreng hingga matang</item>
+        <item>Panaskan minyak di dalam wajan di atas api sedang. Tumis bawang merah dan bawang putih hingga harum.<br/>Masukkan Royco Kaldu Ayam, minyak wijen, dan cabai merah, aduk rata.<br/>Masukkan kangkung, aduk rata hingga semua bahan tercampur rata. Angkat.<br/>Sajikan segera ditemani nasi putih.</item>
+        <item>Panaskan di dalam wajan di atas api sedang.<br/>Masukan ikan asin, masak hingga kecoklatan<br/>Angkat, tiris, dan hidangkan</item>
+        <item>Siapkan bahan masak air.<br/>Masukkan mie sampai agak lemes masukan cabenya biar pedesnya kerasa btw airnya jangan banyak2 yaa.<br/>Masukkin telurnya lalu kasih bumbu di pinggir2nya aduk perlahan kalo mau di campur ya langsung di aduk tapi kalo aku selalu aku buat kuningnya masih utuh biar ga amis.<br/>Tutup kuning yang mentah sama mie tunggu 1 menit aduk sajikan deh selamat mencoba.</item>
+        <item>Rebus indomie.<br/>Iris bawang merah lalu goreng n masukan telor, kocok lepas sampai hancur.<br/>Setelah tu masukan indomie goreng n bumbu2nya tambahkan kecap manis sedikiit biar mantul.</item>
+        <item>Cara membuat:<br/>- Rebus air, lalu masukkan kerupuk mendidih. Tunggu hingga mendidih lalu saring atau tiriskan<br/>- Masukkan kerupuk ke dalam air dingin<br/>- Haluskan cabai, bawang merah, kencur dan bawang putih lalu tumis hingga harum<br/>- Tambahkan air setengah gelas, lalu tambahkan gula pasir, air asam jawa, garam, sosis dan bakso<br/>- Lalu tambahkan kerupuk, aduk rata<br/>- Masak hingga bumbu meresap, lalu tambahkan kocokan telur<br/>- Aduk rata dan sajikan<br/>- Sajikan Seblak Basah panas untuk 1-2 porsi.</item>
+        <item>Cuci bersih tahu lalu hancurkan. Peras tahu menggunakan kain bersih atau serbet hingga keluar airnya.<br/>Campurkan tahu dengan kuning telur, baking powder, bubuk kaldu, dan lada bubuk. Aduk hingga benar-benar bercampur dan tahunya halus. Sesuaikan rasanya.<br/>Bulat-bulatkan adonan tahu dengan tangan hingga halus dan licin. Agar ukurannya seragam, timbang masing-masing bulatan sebesar 30 gram.<br/>Simpan bola-bola tahu dalam wadah kedap udara dan masukkan ke kulkas (bukan freezer), minimal selama 3-4 jam.<br/>Keluarkan tahu dan biarkan agar suhunya naik sesuai keadaan suhu ruang terlebih dulu.<br/>Panaskan banyak minyak goreng dengan api sedang. Goreng tahu sambil dibolak-bolak hingga berwarna kecoklatan.<br/>Angkat dan tiriskan.<br/>Sajikan.</item>
+        <item>Cara Membuat: <br/> 1. Lumuri daging ayam dengan Royco Kaldu Ayam, bawang putih, merica dan jeruk nipis secara merata. Diamkan dalam kulkas selama satu jam. <br/>2. Tusukkan 3-4 potong daging ayam ke tusukan satai. <br/> 3. Panaskan wajan pemanggang, olesi dengan minyak. Panggang satai di atas grill pan sambil sesekali dibolak-balik hingga matang. Angkat, sisihkan. <br/>4. Sambal: Ulek cabai dan garam hingga halus. Kucuri dengan air jeruk limau, aduk rata. <br/> 5. Sajikan satai bersama sambal pelengkap.</item>
+        <item>Cara Membuat: <br/> 1. Campurkan nasi dengan biji wijen <br/> 2. Siapkan penggulung sushi yang sudah dilebarkan <br/> 3. Taruh nori diatas penggulung sushi, bagian nori yang mengkilap ada diposisi bawah <br/>4. Letakkan nasi dan ratakan hingga lembaran nori tertutup. sedikit ditekan <br/> 5. Tambahan potongan mentimun, wortel, ikan dan mayonaise <br/>6. Gulung sushi dengan penggulung. pada step ini kamu akan sedikit kesulitan. butuh kesabaran dan ketelitian saat menggulung. <br/> 7. Ketika gulungan berhasil, potongan sushi menjadi beberapa bagian <br/>8. Siapkan wasabi dan shoyu, sushi sudah bisa dinikmati. </item>
+        <item>Pertama-tama campurkan semua bahan seperti telur, gula pasir, emulsifier, dan telur dan kocok hingga semua adonan merata kurang lebih 10 menit saja.<br/>Berikutnya ayak tepung terigu beserta dengan baking powder dengan bergantian.<br/>Berikutnya campur bahan tersebut dengan minuman soda hingga merata dengan perlahan saja.<br/>Untuk membuat kue menjadi lebih menarik adonan kue dibagi menjadi tiga. Satu bagian diberikan warna bebas dan satu bagian lagi juga diberi dengan warna yang berbeda. Sementara untuk bagian terakhir biarkan putih saja.<br/>Berikutnya tinggal Anda masukkan adonan dalam cetakan yang sudah diberi kertas kue. Letakkan dulu adonan yang berwarna putih dan masukkan kembali adonan yang diberi warna hingga hampir memenuhi cetakan.<br/>Terakhir tinggal kukus adonan kue dengan menggunakan api besar selama kurang lebih 10 menit.</item>
+        <item>Campur tepung terigu dengan baking powder, garam dan gula dalam mangkuk. Aduk hingga rata. <br/>Dalam wadah berbeda, kocok telur hingga berbuih, lalu tambahkan mentega cair dan susu.Tuang campuran telur tersebut sedikit demi sedikit ke campuran tepung. Sembari dituang, aduk menggunakan whisk. Diamkan adonan selama 15 menit untuk memberi tekstur yang lembut. <br/>Panaskan wajan datar, olesi dengan sedikit mentega. Lalu tuang 1 sendok sayur adonan ke wajan yang hangat. <br/>Masak pancake hingga permukaan adonan muncul lubang-lubang kecil. Balikkan pancake, masak sebentar lalu angkat. <br/>Masakan sisa adonan dengan cara yang sama. Sajikan pancake hangat dengan sepotongan butter dan maple syrup atau madu. Pancake siap disantap!</item>
+        <item>Cara membuat:<br/>- Goreng kacang tanah dan bawang putih hingga kecokelatan. Angkat.<br/>- Haluskan semua bahan saus dengan chopper hingga benar-benar halus kecuali santan dan kecap manis.<br/>- Masukkan bahan saus di panci, tambahkan santan aduk-aduk hingga rata.<br/>- Masak hingga hampir mendidih sambil terus diaduk.<br/>- Kentalkan dengan tepung beras yang sudah dicairkan, tambahkan kecap manis.<br/>- Aduk hingga mendidih. Angkat.<br/>- Tata sayuran yang sudah dipotong-potong, telur, tahu, dan lontong di piring.<br/>- Siram dengan saus kacang. Taburi bawang goreng dan emping melinjo. Sajikan.</item>
+        <item>Cara membuat chicken karaage:  <br/>1. Pisahkan dada ayam dengan tulangnya lalu potong dadu seukuran 1 sentimeter. <br/>2. Campur potongan daging ayam dengan bumbu rendaman lalu diamkan minimal 1 jam di dalam kulkas agar bumbu lebih meresap.  <br/>3. Campur tepung terigu, tepung maizena, garam, dan merica dalam satu wadah, lalu gulingkan ayam sambil ditekan-tekan agar tepung menempel.  <br/>4. Panaskan minyak goreng, lalu goreng potongan dada ayam hingga matang dan berubah warna menjadi cokelat keemasan. <br/>5. Tiriskan hingga minyaknya berkurang dan sajikan bersama cocolan mayonnaise.  <br/>Agar lebih lezat dan kaya gizi, kamu bisa menyajikan chicken karaage dengan tambahan salad sayur yang kaya vitamin. Selamat mencoba!</item>
+    </string-array>
+
+
+    <integer-array name="data_rating">
+        <item>3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+    </integer-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/22/Japanese_rice_balls_%28onigiri%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/76/Disneyland_Churros.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/4c/Salmon_sushi_cut.jpg</item>
+        <item>https://commons.wikimedia.org/wiki/File:Omelette_with_Gajah_Oling_motif_souce_dressing.jpg</item>
+        <item>https://commons.wikimedia.org/wiki/File:Bakso_bakar_malang.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/78/Roti_bakar_rasa_strawberry_lan_coklat.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/88/Salad_Buah_1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/1d/Bat_Yaar_French_Fries.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/49/Making_potato_wedges.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/09/Vannis.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d7/Vanilla_pudding_with_raspberries.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Tempe_Goreng.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/93/Tahu_Goreng.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/0f/Tumis_kangkung_Makassar.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/7e/Ikan_asin_jambal_potongan.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/00/Mie_nyemek_1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/14/Indomie_Mie_Goreng_Iga_Penyet_2.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/ac/Seblak_1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/66/Tahu_bulat.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/01/Sate_Taichan.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/37/Sushi_bento.jpg</item>
+        <item>https://commons.wikimedia.org/wiki/Category:Steamed_bread#/media/File:10_Steamed_Bread_-_Congee_Village_House.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/30/Pancake_sucr%C3%A9.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/43/Tipat_Cantok_3.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/37/Chicken_karaage_20080129.jpg</item>
+    </string-array>
 </resources>
